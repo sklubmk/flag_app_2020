@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flag_app_2020/static/css/main.e8719dcf.chunk.css",
+    "main.js": "/flag_app_2020/static/js/main.55538cf3.chunk.js",
+    "main.js.map": "/flag_app_2020/static/js/main.55538cf3.chunk.js.map",
+    "runtime-main.js": "/flag_app_2020/static/js/runtime-main.b1d74ee0.js",
+    "runtime-main.js.map": "/flag_app_2020/static/js/runtime-main.b1d74ee0.js.map",
+    "static/js/2.69940bfc.chunk.js": "/flag_app_2020/static/js/2.69940bfc.chunk.js",
+    "static/js/2.69940bfc.chunk.js.map": "/flag_app_2020/static/js/2.69940bfc.chunk.js.map",
+    "index.html": "/flag_app_2020/index.html",
+    "precache-manifest.5812f061b129058962a871f9324b4364.js": "/flag_app_2020/precache-manifest.5812f061b129058962a871f9324b4364.js",
+    "service-worker.js": "/flag_app_2020/service-worker.js",
+    "static/css/main.e8719dcf.chunk.css.map": "/flag_app_2020/static/css/main.e8719dcf.chunk.css.map",
+    "static/js/2.69940bfc.chunk.js.LICENSE.txt": "/flag_app_2020/static/js/2.69940bfc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1d74ee0.js",
+    "static/js/2.69940bfc.chunk.js",
+    "static/css/main.e8719dcf.chunk.css",
+    "static/js/main.55538cf3.chunk.js"
+  ]
+}
